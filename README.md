@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+Experienced GIS Specialist proficient in spatial analysis, data visualization, and mapping techniques. Skilled in utilizing GIS software to analyze geographic data and solve complex spatial problems. Proven track record in creating insightful maps and providing actionable insights for various projects. Strong background in environmental science and urban planning, with a keen eye for detail and a commitment to accuracy. Effective communicator with a passion for leveraging geospatial technology to drive informed decision-making and improve efficiency
